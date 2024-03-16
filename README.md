@@ -1,4 +1,4 @@
-# Project Name
+# Simple 2D and 3D figures calculator - begginer JAVA project 
 > Outline a brief description of your project.
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
@@ -17,7 +17,7 @@
 
 
 ## General Information
-- Provide general information about your project here.
+- This is my first project of my collage study 
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
