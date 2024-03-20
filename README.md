@@ -1,7 +1,6 @@
 # Simple 2D and 3D figures calculator - begginer JAVA project 
 
 ## General Information
-This is my first project of my collage study
 Its terminal-based application where you can put Circle, Triangle or Square sizes and calculate it.
 Or you can make a prism with a base with those given figures. 
 
