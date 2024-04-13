@@ -13,4 +13,4 @@ It implements the basic usage of interfaces, abstract classes and switch-based m
 This is really small project so there isn't much to be added yet. So I concider it finished. 
 
 ## Acknowledgements
-All the structure and content in this project was given by my teacher.
+Project structure was planned by my teacher. 
